@@ -1,0 +1,1 @@
+Okay, so i have thought of making an SDR, and yeah, i would love to make one using the Great RP2040.
