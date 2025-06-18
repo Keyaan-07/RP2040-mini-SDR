@@ -10,5 +10,6 @@ Okay, so i have thought of making an SDR, and yeah, i would love to make one usi
 What I(and a little bit of gpt) came up with:
 #### this is [excalidraw](https://excalidraw.com) btw
 
-![Block Diag](/Images/16/bd.png)
+![Block Diag](Images/16/bd.png)
+
 
