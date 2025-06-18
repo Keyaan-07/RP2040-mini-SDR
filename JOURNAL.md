@@ -13,3 +13,4 @@ What I(and a little bit of gpt) came up with:
 ![Block Diag](images/16/bd.png)
 
 
+# Time Spent Today: 30 mins
