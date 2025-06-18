@@ -23,3 +23,4 @@ Okay, so today i found a few components for the mini SDR. Here they are:
 LNA: PSA4-5043+
 Mixer: ADE-11X+
 ADC: ADS7042
+Processor/Controller: RP2040: Arguable the best MCU ever Made
