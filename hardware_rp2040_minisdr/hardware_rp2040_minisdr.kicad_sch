@@ -5,6 +5,230 @@
 	(uuid "a9470e8c-e7c5-4ac0-a905-81d12777e86b")
 	(paper "A4")
 	(lib_symbols
+		(symbol "Analog_ADC:ADCS7476AIMFX_NOPB"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "IC"
+				(at 24.13 7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Value" "ADCS7476AIMFX_NOPB"
+				(at 24.13 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Footprint" "SOT95P280X145-6N"
+				(at 24.13 -94.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "http://www.ti.com/lit/gpn/adcs7476"
+				(at 24.13 -194.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Description" "1MSPS, 12-/10-/8-Bit A/D Converters in SOT-23 &amp; LLP"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Height" "1.45"
+				(at 24.13 -394.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Part Number" "926-ADCS7476AIMFXNPB"
+				(at 24.13 -494.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/ADCS7476AIMFX-NOPB?qs=7X5t%252BdzoRHAOC%2FmVhd7fUQ%3D%3D"
+				(at 24.13 -594.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Name" "Texas Instruments"
+				(at 24.13 -694.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Part_Number" "ADCS7476AIMFX/NOPB"
+				(at 24.13 -794.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(symbol "ADCS7476AIMFX_NOPB_1_1"
+				(rectangle
+					(start 5.08 2.54)
+					(end 22.86 -7.62)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin passive line
+					(at 0 0 0)
+					(length 5.08)
+					(name "VDD"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -2.54 0)
+					(length 5.08)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -5.08 0)
+					(length 5.08)
+					(name "VIN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 27.94 0 180)
+					(length 5.08)
+					(name "~{CS}"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 27.94 -2.54 180)
+					(length 5.08)
+					(name "SDATA"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 27.94 -5.08 180)
+					(length 5.08)
+					(name "SCLK"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Connector:Conn_Coaxial_Small"
 			(pin_numbers
 				(hide yes)
@@ -3902,6 +4126,12 @@
 		)
 	)
 	(junction
+		(at 30.48 134.62)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "01c2ee62-7ce2-487f-a1ee-355405f21cc8")
+	)
+	(junction
 		(at 238.76 36.83)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4099,6 +4329,16 @@
 	)
 	(wire
 		(pts
+			(xy 30.48 143.51) (xy 30.48 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "04dfe7a5-3df4-4c8c-8234-d14e2e79e033")
+	)
+	(wire
+		(pts
 			(xy 177.8 114.3) (xy 154.94 114.3)
 		)
 		(stroke
@@ -4269,6 +4509,16 @@
 	)
 	(wire
 		(pts
+			(xy 30.48 134.62) (xy 30.48 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "41c4fb16-38e7-45bc-a268-61d7ac6ccb43")
+	)
+	(wire
+		(pts
 			(xy 76.2 130.81) (xy 80.01 130.81)
 		)
 		(stroke
@@ -4279,6 +4529,16 @@
 	)
 	(wire
 		(pts
+			(xy 30.48 123.19) (xy 30.48 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "463e4a74-aa02-4cbb-8754-b4bd1d47c6a2")
+	)
+	(wire
+		(pts
 			(xy 133.35 134.62) (xy 133.35 139.7)
 		)
 		(stroke
@@ -4286,6 +4546,16 @@
 			(type default)
 		)
 		(uuid "5128a40c-3b49-422c-8de9-5b76b89c9fa4")
+	)
+	(wire
+		(pts
+			(xy 30.48 154.94) (xy 30.48 161.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "52833da9-3339-477b-be25-ee8f85697a1d")
 	)
 	(wire
 		(pts
@@ -4306,6 +4576,26 @@
 			(type default)
 		)
 		(uuid "54d1ddc9-db52-419b-91ea-c2cb20061bf3")
+	)
+	(wire
+		(pts
+			(xy 30.48 133.35) (xy 30.48 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "55899d39-201d-4306-b6d3-c5c864247596")
+	)
+	(wire
+		(pts
+			(xy 30.48 161.29) (xy 41.91 161.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "55fc1f57-2f72-475d-a3ef-7b3f9ad3e761")
 	)
 	(wire
 		(pts
@@ -4579,6 +4869,16 @@
 	)
 	(wire
 		(pts
+			(xy 38.1 123.19) (xy 30.48 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b2dd820f-7153-4c79-a7dc-119c945abc4b")
+	)
+	(wire
+		(pts
 			(xy 254 36.83) (xy 261.62 36.83)
 		)
 		(stroke
@@ -4606,6 +4906,16 @@
 			(type default)
 		)
 		(uuid "c2c58d8d-031e-43e6-8082-1d91d254ea88")
+	)
+	(wire
+		(pts
+			(xy 30.48 134.62) (xy 31.75 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c89e5c9f-6569-45cd-a988-b082b652a710")
 	)
 	(wire
 		(pts
@@ -4881,6 +5191,28 @@
 			)
 		)
 	)
+	(global_label "GND"
+		(shape input)
+		(at 39.37 134.62 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "07a60e44-63de-4873-ad10-53024b3cded7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 46.2257 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "USB_DN"
 		(shape input)
 		(at 59.69 80.01 0)
@@ -5004,6 +5336,28 @@
 		(uuid "154afe1a-9f22-46d8-ac88-73e66593a4a0")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 118.7534 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
+		(at 41.91 158.75 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "17ea8f14-fb9f-4f28-94fc-725376563bd2")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 35.0543 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5427,6 +5781,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "ADC_CS"
+		(shape input)
+		(at 69.85 156.21 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "5c27c1b3-e4c1-4a7a-acbf-05803fa7ace4")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 79.9109 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -5893,6 +6269,28 @@
 			)
 		)
 	)
+	(global_label "ADC_MISO"
+		(shape input)
+		(at 69.85 158.75 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "cab5db47-7177-43d9-b4f1-7593f77b65e7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 82.0276 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "GND"
 		(shape input)
 		(at 85.09 106.68 0)
@@ -5928,6 +6326,28 @@
 		(uuid "d3570718-4f4c-49c3-b573-1a603287f438")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 147.1772 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "3v3"
+		(shape input)
+		(at 41.91 156.21 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "d9e9de24-2c6d-4dd9-be19-5c7a9d98e2fb")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 35.5382 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6016,6 +6436,28 @@
 		(uuid "e622ae89-13d3-470f-a68b-8fd6e167d947")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 140.2057 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "ADC_SCLK"
+		(shape input)
+		(at 69.85 161.29 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "efde4eaf-91c4-4205-a177-df9051381329")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 82.209 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7655,6 +8097,75 @@
 	)
 	(symbol
 		(lib_id "Device:C")
+		(at 35.56 134.62 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3bba8f85-c4a1-47c8-b106-2cbf490350f9")
+		(property "Reference" "C25"
+			(at 35.56 141.478 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10n"
+			(at 38.1 141.478 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 39.37 133.6548 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 35.56 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 35.56 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "08d492f9-c81a-432f-aca4-7cbc852f27bc")
+		)
+		(pin "1"
+			(uuid "af6b2c6d-f6b8-486a-99ec-da6aa570b061")
+		)
+		(instances
+			(project "hardware_rp2040_minisdr"
+				(path "/a9470e8c-e7c5-4ac0-a905-81d12777e86b"
+					(reference "C25")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
 		(at 254 40.64 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7926,6 +8437,138 @@
 			(project "hardware_rp2040_minisdr"
 				(path "/a9470e8c-e7c5-4ac0-a905-81d12777e86b"
 					(reference "C16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Analog_ADC:ADCS7476AIMFX_NOPB")
+		(at 41.91 156.21 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4bcee722-c8c1-48e2-aad9-d9e95ff9dd24")
+		(property "Reference" "IC5"
+			(at 55.88 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "ADCS7476AIMFX_NOPB"
+			(at 55.88 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SOT95P280X145-6N"
+			(at 66.04 251.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.ti.com/lit/gpn/adcs7476"
+			(at 66.04 351.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "1MSPS, 12-/10-/8-Bit A/D Converters in SOT-23 &amp; LLP"
+			(at 41.91 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "1.45"
+			(at 66.04 551.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "926-ADCS7476AIMFXNPB"
+			(at 66.04 651.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/ADCS7476AIMFX-NOPB?qs=7X5t%252BdzoRHAOC%2FmVhd7fUQ%3D%3D"
+			(at 66.04 751.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Texas Instruments"
+			(at 66.04 851.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ADCS7476AIMFX/NOPB"
+			(at 66.04 951.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "6"
+			(uuid "fbfbbcd7-f36f-488b-a62a-8058cebf9cc5")
+		)
+		(pin "2"
+			(uuid "f3b054a1-52bf-485b-b329-da10648b3f42")
+		)
+		(pin "3"
+			(uuid "0a5c79e2-aa7b-4af2-a389-6e3da88aaba2")
+		)
+		(pin "1"
+			(uuid "d994e2d9-bbc4-4538-b444-0337a73a3156")
+		)
+		(pin "4"
+			(uuid "e11372f1-eca5-4b11-b34a-d5b379fc0dd9")
+		)
+		(pin "5"
+			(uuid "7a55e714-f189-4036-a3d6-7176f87dd15e")
+		)
+		(instances
+			(project ""
+				(path "/a9470e8c-e7c5-4ac0-a905-81d12777e86b"
+					(reference "IC5")
 					(unit 1)
 				)
 			)
@@ -8535,6 +9178,75 @@
 			(project "hardware_rp2040_minisdr"
 				(path "/a9470e8c-e7c5-4ac0-a905-81d12777e86b"
 					(reference "C6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 30.48 151.13 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "95387adc-6590-4d8a-837b-dd63f9b3296e")
+		(property "Reference" "C26"
+			(at 28.194 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 28.194 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 29.5148 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 30.48 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 30.48 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "5791e035-c174-48a6-b9cc-a38c9fb050dc")
+		)
+		(pin "1"
+			(uuid "7d2129da-82fd-455e-bfd8-b37791d40d40")
+		)
+		(instances
+			(project "hardware_rp2040_minisdr"
+				(path "/a9470e8c-e7c5-4ac0-a905-81d12777e86b"
+					(reference "C26")
 					(unit 1)
 				)
 			)
@@ -9686,6 +10398,73 @@
 	)
 	(symbol
 		(lib_id "Device:L")
+		(at 30.48 129.54 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ef097bfc-97ba-448a-97fb-d9aba1bfee26")
+		(property "Reference" "L3"
+			(at 26.67 131.064 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "15u"
+			(at 26.67 128.524 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 30.48 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 30.48 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Inductor"
+			(at 30.48 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "caa13398-9ba6-428c-aaf8-bca89a9f6977")
+		)
+		(pin "1"
+			(uuid "721a4e39-a229-419f-8e45-e91e5c37be0c")
+		)
+		(instances
+			(project "hardware_rp2040_minisdr"
+				(path "/a9470e8c-e7c5-4ac0-a905-81d12777e86b"
+					(reference "L3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:L")
 		(at 93.98 100.33 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -9749,6 +10528,73 @@
 			(project ""
 				(path "/a9470e8c-e7c5-4ac0-a905-81d12777e86b"
 					(reference "L1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:L")
+		(at 30.48 139.7 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f5d84c42-8c69-49a9-8223-9539e669895c")
+		(property "Reference" "L4"
+			(at 26.67 141.224 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "15u"
+			(at 26.67 138.684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 30.48 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 30.48 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Inductor"
+			(at 30.48 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "69e9342e-844c-4f9e-9eab-75e5ec37b9c3")
+		)
+		(pin "1"
+			(uuid "75cd354f-f51e-47a1-90bf-86aa179d3075")
+		)
+		(instances
+			(project "hardware_rp2040_minisdr"
+				(path "/a9470e8c-e7c5-4ac0-a905-81d12777e86b"
+					(reference "L4")
 					(unit 1)
 				)
 			)
