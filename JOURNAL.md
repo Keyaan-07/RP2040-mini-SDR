@@ -36,7 +36,9 @@ LO: [Si5351](https://www.lcsc.com/product-detail/Clock-Generators-PLLs-Frequency
 LO AMP: 
 ADC: [ADS7042](https://lcsc.com/product-detail/Analog-to-Digital-Converters-ADC_Texas-Instruments-ADS7042IDCUR_C701641.html)  
 Processor: [RP2040](https://www.lcsc.com/product-detail/Microcontrollers-MCU-MPU-SOC_Raspberry-Pi-RP2040_C2040.html)  
-LPF: Simple LC Circuit
+LPF: Simple LC Circuit  
 
 ### Updated Block DIag:
 ![22/bd.png](/images/22/bd.png)
+
+### Time Spent Today: 15 mins
