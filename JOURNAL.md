@@ -46,4 +46,4 @@ XTAL: [XXGBBCNANF-25.000000MHZ
 
 Umm okay, i did i BIT of schematic(or most of it cuz idk how much is left). Gonna take a break now, i think i might do some more later, so, will update the schematic later.
 
-### Time Spent Today: 2 hours 30 mins
+### Time Spent Today: 3 hours 30 mins
