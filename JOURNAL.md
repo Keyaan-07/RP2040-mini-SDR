@@ -41,4 +41,4 @@ LPF: Simple LC Circuit
 ### Updated Block DIag:
 ![22/bd.png](/images/22/bd.png)
 
-### Time Spent Today: 15 mins
+### Time Spent Today: 2 hours 30 mins
