@@ -25,3 +25,4 @@ Mixer: ADE-11X+
 ADC: ADS7042
 Processor/Controller: RP2040: Arguable the best MCU ever Made
 
+### Time Spent on June 18: About 1 hour
