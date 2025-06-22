@@ -41,6 +41,6 @@ LPF: Simple LC Circuit
 ### Updated Block DIag:
 ![22/bd.png](/images/22/bd.png)
 
-Umm okay, i did i BIT of schematic(or most of it cuz idk how much is left). Gonna take a break now, i think i might do some more later, so, will update the scheamtic later.
+Umm okay, i did i BIT of schematic(or most of it cuz idk how much is left). Gonna take a break now, i think i might do some more later, so, will update the schematic later.
 
 ### Time Spent Today: 2 hours 30 mins
