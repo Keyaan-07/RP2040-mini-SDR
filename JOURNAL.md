@@ -48,4 +48,8 @@ Umm okay, i did i BIT of schematic(or most of it cuz idk how much is left). Gonn
 
 ### Big Change: I am changing my ADC to the [ADCS7476](https://lcsc.com/product-detail/Analog-to-Digital-Converters-ADC_Texas-Instruments-ADCS7476AIMFX-NOPB_C91530.html)
 
-### Time Spent Today: 3 hours 30 mins
+Most of the schematic is now done. only connections to the rp2040 remaining prolly. Image:
+
+![scheamtic on 22 june](Images/22/schematic.png)
+
+### Time Spent Today: 4 hours
