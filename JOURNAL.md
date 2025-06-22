@@ -22,7 +22,7 @@ What I(and a little bit of gpt) came up with:
 Okay, so today i found a few components for the mini SDR. Here they are:  
 LNA: PSA4-5043+  
 Mixer: ADE-11X+  
-ADC: ADS7042  
+ADC: ADCS7676 (old: ADS7042)  
 Processor/Controller: RP2040: Arguable the best MCU ever Made  
 
 ### Time Spent on June 18: About 1 hour
@@ -34,7 +34,7 @@ LNA: [PSA4-5043+](https://www.lcsc.com/product-detail/RF-Amplifiers_Mini-Circuit
 Mixer: [ADE-11X+](https://lcsc.com/product-detail/RF-Mixers_Mini-Circuits-ADE-11X_C3176636.html)  
 LO: [Si5351](https://www.lcsc.com/product-detail/Clock-Generators-PLLs-Frequency-Synthesizers_SKYWORKS-SILICON-LABS-SI5351A-B-GTR_C504891.html)  
 LO AMP: [GALI-84+](https://lcsc.com/product-detail/RF-Amplifiers_Mini-Circuits-GALI-84_C3193261.html)  
-ADC: [ADS7042](https://lcsc.com/product-detail/Analog-to-Digital-Converters-ADC_Texas-Instruments-ADS7042IDCUR_C701641.html)  
+ADC: [ADCS7476](https://lcsc.com/product-detail/Analog-to-Digital-Converters-ADC_Texas-Instruments-ADCS7476AIMFX-NOPB_C91530.html) (old: [ADS7042](https://lcsc.com/product-detail/Analog-to-Digital-Converters-ADC_Texas-Instruments-ADS7042IDCUR_C701641.html))  
 Processor: [RP2040](https://www.lcsc.com/product-detail/Microcontrollers-MCU-MPU-SOC_Raspberry-Pi-RP2040_C2040.html)  
 Crystal for RP2040: [ABM8-272-T3](https://lcsc.com/product-detail/Crystals_Abracon-LLC-ABM8-272-T3_C20625731.html)   
 LPF: Simple LC Circuit  
@@ -45,5 +45,7 @@ XTAL: [XXGBBCNANF-25.000000MHZ
 ![22/bd.png](/images/22/bd.png)
 
 Umm okay, i did i BIT of schematic(or most of it cuz idk how much is left). Gonna take a break now, i think i might do some more later, so, will update the schematic later.
+
+### Big Change: I am changing my ADC to the [ADCS7476](https://lcsc.com/product-detail/Analog-to-Digital-Converters-ADC_Texas-Instruments-ADCS7476AIMFX-NOPB_C91530.html)
 
 ### Time Spent Today: 3 hours 30 mins
