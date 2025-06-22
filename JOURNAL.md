@@ -4,7 +4,7 @@ author: "Keyaan"
 description: "A Receive-only mini SDR capable of decoding FM, AM(Airband) and NOAA APT"
 created_at: "2025-06-16"
 ---
-
+----
 # 16 June 2025
 
 Okay, so i have thought of making an SDR, and yeah, i would love to make one using the Great RP2040. The idea is very rough yet, i have to work on it too much
@@ -16,7 +16,7 @@ What I(and a little bit of gpt) came up with:
 
 
 ### Time Spent Today: 30 mins
-
+----
 # 18 June 2025
 
 Okay, so today i found a few components for the mini SDR. Here they are:  
@@ -26,7 +26,7 @@ ADC: ADCS7676 (old: ADS7042)
 Processor/Controller: RP2040: Arguable the best MCU ever Made  
 
 ### Time Spent on June 18: About 1 hour
-
+----
 # 22 June 2025
 
 I chose an LO. Here is the list of the updated parts:  
@@ -50,6 +50,7 @@ Umm okay, i did i BIT of schematic(or most of it cuz idk how much is left). Gonn
 
 Most of the schematic is now done. only connections to the rp2040 remaining prolly. Image:
 
-![scheamtic on 22 june](Images/22/schematic.png)
+![schematic on 22 june](Images/22/schematic.png)  
+HELL YEAH! So much work done in a single day!!  
 
 ### Time Spent Today: 4 hours
