@@ -65,3 +65,5 @@ I want to make the footprint like Cyao has made in his [ESP-USB](https://github.
 ![alt text](images/23/failed_usb.png)
 
 I was thinking of using LEDs on SPI and I2C lines, but then GPT told me it was not ideal, so i did not simply put it!
+
+oh yeah, btw i forgot to explain some stuff. This project uses a few RF ICs to convert the incoming frequencies into IF(Intermediate Frequency). This IF is then read by an ADC at 1 MSPS(Mega Samples Per second). ADC converts Analog values to digital values and RP2040 reads via SPI. this is then sent to PC where it is read by some other software.
