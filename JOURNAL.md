@@ -63,3 +63,5 @@ Yup, todya i am working on completing scheamtic, assigning and gathering footpri
 
 I want to make the footprint like Cyao has made in his [ESP-USB](https://github.com/cheyao/esp-usb). So i started out to make my own footprint, but after having less luck with myself, i just took it from [Cyao](https://github.com/cheyao/esp-usb/tree/main/hardware/esp-usb-lib.pretty). Hehehe thanks Cyao. This is the shit i thought i was cooking lol
 ![alt text](images/23/failed_usb.png)
+
+I was thinking of using LEDs on SPI and I2C lines, but then GPT told me it was not ideal, so i did not simply put it!

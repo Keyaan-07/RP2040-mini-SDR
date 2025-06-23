@@ -9895,7 +9895,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "user_imported_devices:USBPCB"
 			(at 44.45 52.07 0)
 			(effects
 				(font
