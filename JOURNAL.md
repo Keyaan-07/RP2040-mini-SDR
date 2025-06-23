@@ -58,3 +58,5 @@ HELL YEAH! So much work done in a single day!!
 
 
 # 23 June 2025
+
+Yup, todya i am working on completing scheamtic, assigning and gathering footprints, and starting with the PCB. 
