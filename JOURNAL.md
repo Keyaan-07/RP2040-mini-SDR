@@ -60,3 +60,6 @@ HELL YEAH! So much work done in a single day!!
 # 23 June 2025
 
 Yup, todya i am working on completing scheamtic, assigning and gathering footprints, and starting with the PCB. 
+
+I want to make the footprint like Cyao has made in his [ESP-USB](https://github.com/cheyao/esp-usb). So i started out to make my own footprint, but after having less luck with myself, i just took it from [Cyao](https://github.com/cheyao/esp-usb/tree/main/hardware/esp-usb-lib.pretty). Hehehe thanks Cyao. This is the shit i thought i was cooking lol
+![alt text](images/23/failed_usb.png)
