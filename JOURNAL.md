@@ -54,3 +54,7 @@ Most of the schematic is now done. only connections to the rp2040 remaining prol
 HELL YEAH! So much work done in a single day!!  
 
 ### Time Spent Today: 4 hours
+----
+
+
+# 23 June 2025
