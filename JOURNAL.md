@@ -50,7 +50,7 @@ Umm okay, i did i BIT of schematic(or most of it cuz idk how much is left). Gonn
 
 Most of the schematic is now done. only connections to the rp2040 remaining prolly. Image:
 
-![schematic on 22 june](/Images/22/schematic.png)  
+![schematic on 22 june](/images/22/schematic.png)  
 HELL YEAH! So much work done in a single day!!  
 
 ### Time Spent Today: 4 hours
