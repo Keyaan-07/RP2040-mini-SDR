@@ -1,4 +1,4 @@
-25601076023745723
+25611577252473849
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -102661,3 +102661,45 @@ Varistor VF
 0
 2
 2
+user_imported_devices
+ADCS7476_SOT95P280X145-6N
+DBV (R-PDSO-G6)
+Integrated Circuit
+0
+6
+6
+user_imported_devices
+GALI5
+DF782 (SOT-89 package)
+Integrated Circuit
+0
+4
+4
+user_imported_devices
+PSA45043
+PSA4-5043+-2
+Integrated Circuit
+0
+4
+4
+user_imported_devices
+SI5351_SOP50P490X110-10N
+10-MSOP Package
+Integrated Circuit
+0
+10
+10
+user_imported_devices
+SOT95P280X145-5N
+DBV0005A_a
+Diode
+0
+5
+5
+user_imported_devices
+SOTFL254P691X284-6N
+ADE-11X+
+Integrated Circuit
+0
+6
+6
