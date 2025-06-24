@@ -82,3 +82,7 @@ Hell yeah, i worked on my PCB in the school today, i got permission to bring my 
 
 oh hell nah, i forgot the ss and continued further, so nvm, here is the current progress:
 ![pcb](/images/24/pcb.png)
+
+
+worked a lot on the PCB, will update soon!!
+
