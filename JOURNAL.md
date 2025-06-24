@@ -79,3 +79,6 @@ Here are the images:
 # June 24 2025
 
 Hell yeah, i worked on my PCB in the school today, i got permission to bring my laptop hahaha. here is the progress:
+
+oh hell nah, i forgot the ss and continued further, so nvm, here is the current progress:
+![pcb](/images/24/pcb.png)
