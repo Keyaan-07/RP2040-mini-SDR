@@ -86,3 +86,4 @@ oh hell nah, i forgot the ss and continued further, so nvm, here is the current 
 
 worked a lot on the PCB, will update soon!!
 
+### Time Spent Today: 1 hour 30 mins
