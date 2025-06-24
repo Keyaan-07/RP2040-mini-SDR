@@ -75,3 +75,7 @@ Here are the images:
 ![pcb](/images/23/pcb.png)
 
 ### Total Time Spent Today: 2 hours 30 mins
+----
+# June 24 2025
+
+Hell yeah, i worked on my PCB in the school today, i got permission to bring my laptop hahaha. here is the progress:
