@@ -71,5 +71,7 @@ oh yeah, btw i forgot to explain some stuff. This project uses a few RF ICs to c
 ![final schematic](/images/23/schematic_final.png)
 
 did a bit of PCB, will upload the images later
+Here are the images: 
+![pcb](/images/23/pcb.png)
 
 ### Total Time Spent Today: 2 hours 30 mins

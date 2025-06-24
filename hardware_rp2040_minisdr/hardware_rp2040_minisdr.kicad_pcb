@@ -1889,7 +1889,7 @@
 	(footprint "Capacitor_SMD:C_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "44632266-e298-467f-ab7e-3e5a9a7f584c")
-		(at 99.93 62.76)
+		(at 206.77 94.75)
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C17"
@@ -6883,7 +6883,7 @@
 	(footprint "user_imported_devices:GALI5"
 		(layer "F.Cu")
 		(uuid "9c615cf4-7ac2-488a-8597-fe2018742217")
-		(at 202.312 90.25 90)
+		(at 189.562 96.5 90)
 		(descr "DF782 (SOT-89 package)")
 		(tags "Integrated Circuit")
 		(property "Reference" "IC4"
@@ -7426,11 +7426,11 @@
 	(footprint "user_imported_devices:PSA45043"
 		(layer "F.Cu")
 		(uuid "a9b7c6c8-e553-4c42-88bb-4626c5b361cc")
-		(at 86.815 90.71)
+		(at 203.5 91.75 -90)
 		(descr "PSA4-5043+-2")
 		(tags "Integrated Circuit")
 		(property "Reference" "IC1"
-			(at -0.113 0.012 0)
+			(at -0.113 0.012 90)
 			(layer "F.SilkS")
 			(uuid "e16c6759-eef0-4dec-b0b3-ebc2f211592d")
 			(effects
@@ -7441,7 +7441,7 @@
 			)
 		)
 		(property "Value" "PSA4-5043+"
-			(at -0.113 0.012 0)
+			(at -0.113 0.012 90)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "ebad88a9-effb-40cc-9a77-e0bfe2d2e7c6")
@@ -7453,7 +7453,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.minicircuits.com/pdfs/PSA4-5043+.pdf"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "2b37e21e-4130-4988-8336-3061b0e5db27")
@@ -7465,7 +7465,7 @@
 			)
 		)
 		(property "Description" "Low Noise, High IP3 Monolithic Amplifier"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "0019596f-bc1d-4716-97cf-24261fcd92a0")
@@ -7477,7 +7477,7 @@
 			)
 		)
 		(property "Height" "1.1"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -7490,7 +7490,7 @@
 			)
 		)
 		(property "Mouser Part Number" "139-PSA4-5043"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -7503,7 +7503,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Mini-Circuits/PSA4-5043%2b?qs=xZ%2FP%252Ba9zWqbLkryIxS%2FdVA%3D%3D"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -7516,7 +7516,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Mini-Circuits"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -7529,7 +7529,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "PSA4-5043+"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -7546,16 +7546,6 @@
 		(sheetfile "hardware_rp2040_minisdr.kicad_sch")
 		(attr smd)
 		(fp_line
-			(start -1.2 1.5)
-			(end -1.2 1.5)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "3198fa89-ffa0-4c82-8cb6-9433216fad44")
-		)
-		(fp_line
 			(start -1.2 1.6)
 			(end -1.2 1.6)
 			(stroke
@@ -7565,16 +7555,15 @@
 			(layer "F.SilkS")
 			(uuid "d68cf510-b85a-4628-a4c3-a746820bdf5d")
 		)
-		(fp_arc
+		(fp_line
 			(start -1.2 1.5)
-			(mid -1.15 1.55)
-			(end -1.2 1.6)
+			(end -1.2 1.5)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "cf47c836-e4be-4f49-8aa9-b35cab699ea5")
+			(uuid "3198fa89-ffa0-4c82-8cb6-9433216fad44")
 		)
 		(fp_arc
 			(start -1.2 1.6)
@@ -7587,15 +7576,16 @@
 			(layer "F.SilkS")
 			(uuid "4c115c64-b262-48f6-b937-084a6bf215c4")
 		)
-		(fp_line
-			(start -2.25 -2.575)
-			(end 2.025 -2.575)
+		(fp_arc
+			(start -1.2 1.5)
+			(mid -1.15 1.55)
+			(end -1.2 1.6)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
-			(layer "F.CrtYd")
-			(uuid "0618af10-c04a-4848-b928-e3e9030f81b9")
+			(layer "F.SilkS")
+			(uuid "cf47c836-e4be-4f49-8aa9-b35cab699ea5")
 		)
 		(fp_line
 			(start -2.25 2.6)
@@ -7608,16 +7598,6 @@
 			(uuid "8a0f166f-5898-4baf-aa58-e4c42555f64a")
 		)
 		(fp_line
-			(start 2.025 -2.575)
-			(end 2.025 2.6)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "32b672fe-8344-4f7a-84ff-b3ee5ace9c60")
-		)
-		(fp_line
 			(start 2.025 2.6)
 			(end -2.25 2.6)
 			(stroke
@@ -7628,14 +7608,24 @@
 			(uuid "4c07988a-d354-4d35-a08f-6f98efa16781")
 		)
 		(fp_line
-			(start -1.025 -0.625)
-			(end 1.025 -0.625)
+			(start -2.25 -2.575)
+			(end 2.025 -2.575)
 			(stroke
-				(width 0.2)
+				(width 0.1)
 				(type solid)
 			)
-			(layer "F.Fab")
-			(uuid "4bbb54b9-4bcf-46dc-971b-665f42f56307")
+			(layer "F.CrtYd")
+			(uuid "0618af10-c04a-4848-b928-e3e9030f81b9")
+		)
+		(fp_line
+			(start 2.025 -2.575)
+			(end 2.025 2.6)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "32b672fe-8344-4f7a-84ff-b3ee5ace9c60")
 		)
 		(fp_line
 			(start -1.025 0.625)
@@ -7648,16 +7638,6 @@
 			(uuid "f6734c71-eafe-40cd-9fbc-a8a039fc88a4")
 		)
 		(fp_line
-			(start 1.025 -0.625)
-			(end 1.025 0.625)
-			(stroke
-				(width 0.2)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "efe5dac1-0888-4355-ad74-fb5671763e87")
-		)
-		(fp_line
 			(start 1.025 0.625)
 			(end -1.025 0.625)
 			(stroke
@@ -7667,8 +7647,28 @@
 			(layer "F.Fab")
 			(uuid "bfd57c57-4cc1-456a-8c57-3e39ee239d0b")
 		)
+		(fp_line
+			(start -1.025 -0.625)
+			(end 1.025 -0.625)
+			(stroke
+				(width 0.2)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "4bbb54b9-4bcf-46dc-971b-665f42f56307")
+		)
+		(fp_line
+			(start 1.025 -0.625)
+			(end 1.025 0.625)
+			(stroke
+				(width 0.2)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "efe5dac1-0888-4355-ad74-fb5671763e87")
+		)
 		(fp_text user "${REFERENCE}"
-			(at -0.113 0.012 0)
+			(at -0.113 0.012 90)
 			(layer "F.Fab")
 			(uuid "c5923b85-25d3-40ee-9a12-bca02e8aae0b")
 			(effects
@@ -7679,7 +7679,7 @@
 			)
 		)
 		(pad "1" smd rect
-			(at -0.65 1.1)
+			(at -0.65 1.1 270)
 			(size 0.5 0.95)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net 10 "Net-(IC1-RF-OUT_&_DC-IN)")
@@ -7688,7 +7688,7 @@
 			(uuid "686dc4c5-6108-4c44-821e-6b463345c2f1")
 		)
 		(pad "2" smd rect
-			(at 0.5 1.1)
+			(at 0.5 1.1 270)
 			(size 0.8 0.95)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net 1 "GND")
@@ -7697,7 +7697,7 @@
 			(uuid "f5f41acd-a661-4b28-86ee-9fe22a47ddb6")
 		)
 		(pad "3" smd rect
-			(at 0.65 -1.1)
+			(at 0.65 -1.1 270)
 			(size 0.5 0.95)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net 8 "Net-(IC1-RF_IN)")
@@ -7706,7 +7706,7 @@
 			(uuid "33f9d258-fb90-43ac-bff0-9b297ead3cd8")
 		)
 		(pad "4" smd rect
-			(at -0.65 -1.1)
+			(at -0.65 -1.1 270)
 			(size 0.5 0.95)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net 1 "GND")
@@ -9525,7 +9525,7 @@
 	(footprint "Button_Switch_SMD:SW_SPST_PTS810"
 		(layer "F.Cu")
 		(uuid "e11b2e3c-bc2a-4314-b2ce-4604951d01b1")
-		(at 76.87 90.98)
+		(at 167.675 102.425)
 		(descr "C&K Components, PTS 810 Series, Microminiature SMT Top Actuated, http://www.ckswitches.com/media/1476/pts810.pdf")
 		(tags "SPST Button Switch")
 		(property "Reference" "SW1"
