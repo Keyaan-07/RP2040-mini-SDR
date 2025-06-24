@@ -84,6 +84,7 @@ oh hell nah, i forgot the ss and continued further, so nvm, here is the current 
 ![pcb](/images/24/pcb.png)
 
 
-worked a lot on the PCB, will update soon!!
+worked a lot on the PCB, will update soon!!  
+![Final PCB look on 24 June](/images/24/pcb_2.png)
 
 ### Time Spent Today: 1 hour 30 mins
