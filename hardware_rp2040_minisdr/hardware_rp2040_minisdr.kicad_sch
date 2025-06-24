@@ -9216,7 +9216,7 @@
 				)
 			)
 		)
-		(property "Value" "AMS1117-3.3"
+		(property "Value" "AMS1117S-3.3"
 			(at 80.01 41.91 0)
 			(effects
 				(font
@@ -9224,7 +9224,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-89-3"
 			(at 80.01 40.64 0)
 			(effects
 				(font
