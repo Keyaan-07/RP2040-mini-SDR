@@ -99,4 +99,6 @@ I have plans to work today later but i have to study too so let's see, if i get 
 Current Progress:  
 ![alt text](/images/25/pcb.png)
 
+I realised my mistake, for onboard USB connector, i will need to have the board 2.00 mm thick instead of 1.6mm thick, which is gonna increase the cost significantly, like the normal 4 layer board was about $45, but now if i order the same, it WILL be minimum $75, which i dont wanna give just for a single PCB, so instead i am gonna save costs and add the normal USB A Connector
+
 Time Spent Today: 45 mins
