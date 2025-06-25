@@ -94,3 +94,9 @@ worked a lot on the PCB, will update soon!!
 Changed something on the schematic today that i dont remember. and also worked on the PCB. 
 
 I always order from [PCB Power](pcbpower.com) and i found out they have their own page for controlled impedance trace widths, so i dont need to calculate anything for the RF Layout!!
+
+I have plans to work today later but i have to study too so let's see, if i get time i will finish the routing part and then move on to BOM and README and submitting.  
+Current Progress:  
+![alt text](/images/25/pcb.png)
+
+Time Spent Today: 45 mins
