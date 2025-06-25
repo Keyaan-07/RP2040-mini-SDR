@@ -10257,7 +10257,7 @@
 				)
 			)
 		)
-		(property "Footprint" "user_imported_devices:USBPCB"
+		(property "Footprint" "Connector_USB:USB_A_Connfly_DS1098_Horizontal"
 			(at 44.45 52.07 0)
 			(effects
 				(font
