@@ -112,3 +112,6 @@ Time Spent Today: 45 mins
 One of my friends suggested me that i should not have direct 90 deg VBUS connections, even though they are via a via. so i am gonna thange that rn
 
 ![VBUS Fix](/images/26/vbus_fix.png)
+
+I believe this should be the final look of the PCB:  
+![Final PCB](/images/26/PCB_final_probably.png)
