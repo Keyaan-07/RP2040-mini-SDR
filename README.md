@@ -18,3 +18,10 @@ I have used an SMA connector as it is the most common one i think.
 
 ## How to make and bake it!
 Your take the gerber files from this repository and then you upload them to your desired PCB manufacturer. I am using [PCB Power](htttps://pcbpower.com) as they support hcb cards and are only about 350km from my home. and you also order the parts listen in the BOM, i wont order everything, as i have a few things from my previous orders. so, in the BOM, there is Do Not Order column that shows what i wont order but you would have to order if you wanna make it. Then you prep the PCB with solder paste. Then you just use the ibom from this repo and place the components and bake it up.
+
+# Images:
+![Schematic](/images/26/schematic.png)
+
+![pcb](/images/26/PCB_final_probably.png)
+
+![3d model](/images/26/3d.png)
