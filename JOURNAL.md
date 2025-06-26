@@ -116,5 +116,10 @@ One of my friends suggested me that i should not have direct 90 deg VBUS connect
 I believe this should be the final look of the PCB:  
 ![Final PCB](/images/26/PCB_final_probably.png)
 
-The 3D model of the PCB looks like this:
-![alt text](/images/26/3d.png)
+
+Final schematic:  
+![Schematic](/images/26/schematic.png)  
+The 3D model of the PCB looks like this:  
+![3d model](/images/26/3d.png)  
+
+Final Schematic 
