@@ -9,7 +9,7 @@ I think I am gonna make another RF board that could legally transmit too! but th
 I am not making a 3D model for this project as i feel this is not required for now. 
 
 # Why I chose to make this project
-I have always wanted to try out stuff with RF, especially receiving images from NOAA with my own stuff.  
+I have always wanted to try out stuff with RF, especially receiving images from NOAA with my own stuff(I have used [WebSDRs](https://websdr.org) before).  
 So i thought that why not make it FM too. And then GPT told me i could legally listen to airband signals too. 
 
 So, i planned to make out an SDR using the goated RP2040 chip and a few mixers and oscillators.  
