@@ -110,3 +110,5 @@ Time Spent Today: 45 mins
 # June 26 2025
 
 One of my friends suggested me that i should not have direct 90 deg VBUS connections, even though they are via a via. so i am gonna thange that rn
+
+![VBUS Fix](/images/26/vbus_fix.png)
