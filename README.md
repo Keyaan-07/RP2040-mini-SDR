@@ -12,3 +12,5 @@ I have always wanted to try out stuff with RF, especially receiving images from 
 So i thought that why not make it FM too. And then GPT told me i could legally listen to airband signals too. 
 
 So, i planned to make out an SDR using the goated RP2040 chip and a few mixers and oscillators.  
+
+I have used an SMA connector as it is the most common one i think. 
