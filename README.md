@@ -7,3 +7,5 @@ So, i planned to make out an SDR using the goated RP2040 chip and a few mixers a
 I am in no way an RF expert and would love it if someone pointed out my errors and mailed them to [me](mailto:keyaan.1911@gmail.com) or DM on [hackclub](https://hackclub.com) Slack ```@Keyaan```
 
 I think I am gonna make another RF board that could legally transmit too! but that's just an idea for now. 
+
+I am not making a 3D model for this as i feel this is not required for now. 
