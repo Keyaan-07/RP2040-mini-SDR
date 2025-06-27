@@ -25,6 +25,6 @@
 24,U3,AMS1117S-3.3,AMS1117S-3.3,SOT-89-3,yes,No,-,0,1,0,,https://lcsc.com/product-detail/Voltage-Regulators-Linear-Low-Drop-Out-LDO-Regulators_JSMSEMI-AMS1117S-3-3_C917152.html
 25,Y1,Crystal_GND24,ABM8-272-T3,Crystal_SMD_3225-4Pin_3.2x2.5mm,No,No,No,0.3731,2,0.7462,,
 26,Y2,Crystal_GND24,XXGBBCNANF-25.000000MHZ,Crystal_SMD_3225-4Pin_3.2x2.5mm,No,No,Yes,0.1459,5,0.7295,,https://lcsc.com/product-detail/Crystals_TAITIEN-Elec-XXGBBCNANF-25-000000MHZ_C521601.html
-,Rounding Errors,,,,1.2338,,,,,,,
-,Shipping,,,,3.74,,,,,,,
-,Total,:,,,23.49,,,,,,,
+,Rounding Errors,1.2338,,,,,,,,,,
+,Shipping,3.74,,,,,,,,,,
+,Total,23.49,,,,,,,,,,
