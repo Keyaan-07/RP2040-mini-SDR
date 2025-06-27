@@ -122,4 +122,12 @@ Final schematic:
 The 3D model of the PCB looks like this:  
 ![3d model](/images/26/3d.png)  
 
-Final Schematic 
+# June 27 2025
+
+I forgot to add the silkscreen today, so now i added it, here it is:
+
+![PCB final prolly](/images/27/PCB_final_probably.png)
+
+![3d model final prolly](/images/27/3d_1.png)
+
+![3d model final prolly](/images/27/3d_2.png)
