@@ -131,3 +131,5 @@ I forgot to add the silkscreen today, so now i added it, here it is:
 ![3d model final prolly](/images/27/3d_1.png)
 
 ![3d model final prolly](/images/27/3d_2.png)
+
+Finally, all the work is done, now adding some final touches, all the BOM is made and all the PCBs are ready to be paid for, now i'll update the time for today, make an update in #highway-pitstop and submit!!!
