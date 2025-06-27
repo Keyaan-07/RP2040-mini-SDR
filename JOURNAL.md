@@ -105,7 +105,7 @@ Yay, i think i am doe with my PCB. all nets routed, all DRC errors un-errored(is
 Da LOOK Of MA' QUEEN:  
 ![alt text](/images/25/pcb_final_25.png)
 
-Time Spent Today: 45 mins
+### Time Spent Today: 45 mins
 
 # June 26 2025
 
@@ -133,3 +133,5 @@ I forgot to add the silkscreen today, so now i added it, here it is:
 ![3d model final prolly](/images/27/3d_2.png)
 
 Finally, all the work is done, now adding some final touches, all the BOM is made and all the PCBs are ready to be paid for, now i'll update the time for today, make an update in #highway-pitstop and submit!!!
+
+### Time Spent Today: about 2 hours
