@@ -22,6 +22,8 @@ Your take the gerber files from this repository and then you upload them to your
 # Images:
 ![Schematic](/images/26/schematic.png)
 
-![pcb](/images/26/PCB_final_probably.png)
+![PCB final prolly](/images/27/PCB_final_probably.png)
 
-![3d model](/images/26/3d.png)
+![3d model final prolly](/images/27/3d_1.png)
+
+![3d model final prolly](/images/27/3d_2.png)
