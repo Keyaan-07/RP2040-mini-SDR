@@ -6,7 +6,7 @@ created_at: "2025-06-16"
 ---
 ----
 # Total Time Spent: About 12 hours and 15 mins. 
-----
+
 # 16 June 2025
 
 Okay, so i have thought of making an SDR, and yeah, i would love to make one using the Great RP2040. The idea is very rough yet, i have to work on it too much
