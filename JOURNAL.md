@@ -5,6 +5,8 @@ description: "A Receive-only mini SDR capable of decoding FM, AM(Airband) and NO
 created_at: "2025-06-16"
 ---
 ----
+# Total Time Spent: About 12 hours and 15 mins. 
+----
 # 16 June 2025
 
 Okay, so i have thought of making an SDR, and yeah, i would love to make one using the Great RP2040. The idea is very rough yet, i have to work on it too much
@@ -88,7 +90,7 @@ worked a lot on the PCB, will update soon!!
 ![Final PCB look on 24 June](/images/24/pcb_2.png)
 
 ### Time Spent Today: 1 hour 30 mins
-
+----
 # June 25 2025
 
 Changed something on the schematic today that i dont remember. and also worked on the PCB. 
@@ -106,7 +108,7 @@ Da LOOK Of MA' QUEEN:
 ![alt text](/images/25/pcb_final_25.png)
 
 ### Time Spent Today: 45 mins
-
+----
 # June 26 2025
 
 One of my friends suggested me that i should not have direct 90 deg VBUS connections, even though they are via a via. so i am gonna thange that rn
@@ -121,7 +123,7 @@ Final schematic:
 ![Schematic](/images/26/schematic.png)  
 The 3D model of the PCB looks like this:  
 ![3d model](/images/26/3d.png)  
-
+----
 # June 27 2025
 
 I forgot to add the silkscreen today, so now i added it, here it is:
