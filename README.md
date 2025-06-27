@@ -24,7 +24,7 @@ I have set prices to 0 for the components that i have already but i have linked 
 # Images:
 ![Schematic](/images/26/schematic.png)
 
-![PCB final prolly](/images/27/PCB_final_probably.png)
+![PCB final prolly](/images/27/pcb_final_probably.png)
 
 ![3d model final prolly](/images/27/3d_1.png)
 
