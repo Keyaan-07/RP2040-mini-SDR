@@ -13426,6 +13426,18 @@
 			(justify bottom mirror)
 		)
 	)
+	(gr_text "DO NOT TOUCH"
+		(at 163.977762 104 0)
+		(layer "B.SilkS")
+		(uuid "f2b97de4-d99e-4b1c-b6ed-dfae38f111f9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(segment
 		(start 179.832 95.22)
 		(end 179.001 96.051)
