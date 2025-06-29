@@ -33,12 +33,14 @@ I have set prices to 0 for the components that i have already but i have linked 
 # BOM
 |ITEM NAME                 |ITEM PRICE|FUNCTION                                                          |URL                                                                                                                                                        |OTHERS|
 |--------------------------|----------|------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|------|
-|PCB Manufacturing(4 Layer)|$51.28    |The Main PCB                                                      |https://pcbpower.com                                                                                                                                       |      |
+|PCB Manufacturing(4 Layer)|$15.42    |The Main PCB                                                      |https://jlcpcb.com                                                                                                                                       |      |
 |PCB Stencil               |$27.39    |Stencil for soldering                                             |https://pcbpower.com                                                                                                                                       |      |
 |PCB Components            |$23.49    |Components on PCB                                                 |https://lcsc.com                                                                                                                                           |      |
 |Tape Measure and SMA Cable|$5.57     |tape measure for a dipole antenna and sma to connect it to the PCB|https://www.amazon.in/FREEMANS-IKON-5m-Unbreakable-Bi-material/dp/B010M5GQ78/ , https://www.amazon.in/3AN-Telecom-Coaxial-Extension-Security/dp/B08GKXS915/|      |
-|Total                     |107.73    |USD                                                               |                                                                                                                                                           |      |
+|Total                     |$71.87    |                                                                  |                                                                                                                                                           |      |  
 
+### Update: I updated the pcb manufacturer from pcbpower to jlcpcb as pcbpower was way too expensive, and i didn't change the stencil if i add stencil on jlcpcb, the stencil+pcb would jump from $15 to $52 because shipping would be so much more, so i will order pcb from jlc for $15 incl. shipping and the stencil from pcbpower only because that would make it overall cheaper. Basically both from jlc would have been $52 and pcb from jlc and stencil form pcbpower is $42, so we save $10.
+----
 ### Note: There are a few resistors and capacitors, which had very high minimum order quantity(MOQ), about 100 pieces so i had to forcefully include those, which i will be utilising in my next highway projects. And tbh the prices were very less(about $0.002 per piece) so i think it is alright.
 
 # PCB Component Breakdown
