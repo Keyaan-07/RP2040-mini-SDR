@@ -137,3 +137,6 @@ I forgot to add the silkscreen today, so now i added it, here it is:
 Finally, all the work is done, now adding some final touches, all the BOM is made and all the PCBs are ready to be paid for, now i'll update the time for today, make an update in #highway-pitstop and submit!!!
 
 ### Time Spent Today: about 2 hours
+
+# July 3
+I updated the BOM for the second time today, and now the BOM is wayy optimised yayy
