@@ -1,6 +1,5 @@
 ﻿ITEM NAME,ITEM PRICE,FUNCTION,URL,OTHERS
-PCB Manufacturing(4 Layer),$15.42,The Main PCB,https://jlcpcb.com,
-PCB Stencil,$27.39,Stencil for soldering,https://pcbpower.com,
+PCB Manufacturing(4 Layer)+Stencil,$29.14,The Main PCB,https://jlcpcb.com,
 PCB Components,$23.49,Components on PCB,https://lcsc.com,
 Tape Measure and SMA Cable,$5.57,tape measure for a dipole antenna and sma to connect it to the PCB,"https://www.amazon.in/FREEMANS-IKON-5m-Unbreakable-Bi-material/dp/B010M5GQ78/ , https://www.amazon.in/3AN-Telecom-Coaxial-Extension-Security/dp/B08GKXS915/",
-Total,$71.87,,,
+Total,$58.20,,,
