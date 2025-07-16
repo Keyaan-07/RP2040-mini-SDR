@@ -140,3 +140,13 @@ Finally, all the work is done, now adding some final touches, all the BOM is mad
 
 # July 3
 I updated the BOM for the second time today, and now the BOM is wayy optimised yayy
+
+# July 16
+
+PCBs arrived today along with stencil from JLC, yayayayya. i liked jlc so much that now i will always order from them. here are a few pics:
+
+![PCB arrived 1!!!](/images/16.7/1.jpg)
+![PCB arrived 2!!!](/images/16.7/2.jpg)
+![PCB arrived 3!!!](/images/16.7/3.jpg)
+
+IDK why but they sent me 6 pcbs, cyao told me this happened because they panelise the pcbs and sometimes it's their error on the manufacturing part, so they make an extra, so if no issues occur, they just send an extra pcb yayy!!
